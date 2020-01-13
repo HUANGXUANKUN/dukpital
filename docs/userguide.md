@@ -2,17 +2,17 @@
 
 [Table of Contents](#user-guide)
 
-[	1. Introduction](#1-introduction)
+  [	1. Introduction](#1-introduction)
 
-[	2. Features](#2-features)
+  [	2. Features](#2-features)
 
-​		[Creating a task `add task`](#creating-a-task-add-task)
+[		Creating a task `add task`](#creating-a-task-add-task)
 
-​		[Creating a patient profile `add patient`](#creating-a-patient-profile-add-patient)
+[		Creating a patient profile `add patient`](#creating-a-patient-profile-add-patient)
 
 [		Assigning a patient to a deadline task: `assign deadline task`](#assigning-a-patient-to-a-deadline-task-assign-deadline-task)
 
-​		[Assigning a patient to a period task: `assign period task`](#assigning-a-patient-to-a-period-task-assign-period-task)
+[		Assigning a patient to a period task: `assign period task`](#assigning-a-patient-to-a-period-task-assign-period-task)
 
 [		Viewing a list of patients: `list patients`](#viewing-a-list-of-patients-list-patients)
 
@@ -200,4 +200,3 @@ After the user submits commands that change their task list, patient list, or re
 Closes the program when the user submits the proper command.
 
 Format: `bye`
-
