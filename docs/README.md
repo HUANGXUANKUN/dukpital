@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/AY1920S1-CS2113-T13-2/main.svg?branch=master)](https://travis-ci.org/AY1920S1-CS2113-T13-2/main)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GdsyMKeBYHg
+" target="_blank"><img src="http://img.youtube.com/vi/GdsyMKeBYHg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 [Click to watch a short video demo](https://youtu.be/GdsyMKeBYHg)
 
 Dukpital an application intended for nurses within hospitals—particularly nurses with many patients under their care. Users will be able to navigate the program through either the GUI or CLI, according to their own preferences.
