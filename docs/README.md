@@ -11,8 +11,7 @@ Dukepital’s purpose is to provide an organizational tool for these users, allo
 [Click to watch a short video demo](https://youtu.be/GdsyMKeBYHg)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GdsyMKeBYHg
-" target="_blank"><img src="http://img.youtube.com/vi/GdsyMKeBYHg/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="600" height="450" border="10" /></a>
+" target="_blank"><![gui_1](images/Ui.png)></a>
 
 ## Installation
 
@@ -54,7 +53,6 @@ You may launch the program by
   + [Saving the data](userguide.md#saving-the-data)
   + [Exiting the program: `bye`](userguide.md#exiting-the-program---bye-)
   
-  ![gui_1](images/Ui.png)
 
 
 ## Contributing
