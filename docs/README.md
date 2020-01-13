@@ -11,7 +11,7 @@ Dukepital’s purpose is to provide an organizational tool for these users, allo
 [Click to watch a short video demo](https://youtu.be/GdsyMKeBYHg)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GdsyMKeBYHg
-" target="_blank"><![gui_1](images/Ui.png)></a>
+" target="_blank">![gui_1](images/Ui.png)</a>
 
 ## Installation
 
