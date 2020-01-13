@@ -6,49 +6,49 @@
 
   [	2. Features](#2-features)
 
-    [Creating a task `add task`](#creating-a-task-add-task)
+[Creating a task `add task`](#creating-a-task-add-task)
 
-    [Creating a patient profile `add patient`](#creating-a-patient-profile-add-patient)
+[Creating a patient profile `add patient`](#creating-a-patient-profile-add-patient)
 
-    [		Assigning a patient to a deadline task: `assign deadline task`](#assigning-a-patient-to-a-deadline-task-assign-deadline-task)
+[		Assigning a patient to a deadline task: `assign deadline task`](#assigning-a-patient-to-a-deadline-task-assign-deadline-task)
 
-    [Assigning a patient to a period task: `assign period task`](#assigning-a-patient-to-a-period-task-assign-period-task)
+[   Assigning a patient to a period task: `assign period task`](#assigning-a-patient-to-a-period-task-assign-period-task)
 
-    [		Viewing a list of patients: `list patients`](#viewing-a-list-of-patients-list-patients)
+[		Viewing a list of patients: `list patients`](#viewing-a-list-of-patients-list-patients)
 
-    [		Viewing a list of tasks: `list tasks`](#viewing-a-list-of-tasks-list-tasks)
+[		Viewing a list of tasks: `list tasks`](#viewing-a-list-of-tasks-list-tasks)
 
-    [		Removing a patient from the patient list: `delete patient`](#removing-a-patient-from-the-patient-list-delete-patient)
+[		Removing a patient from the patient list: `delete patient`](#removing-a-patient-from-the-patient-list-delete-patient)
 
-    [		Removing a task from the task list: `delete task`](#removing-a-task-from-the-task-list-delete-task)
+[		Removing a task from the task list: `delete task`](#removing-a-task-from-the-task-list-delete-task)
 
-    [		Removing an assigned task from a patient: `delete assigned task`](#removing-an-assigned-task-from-a-patient-delete-assigned-task)
+[		Removing an assigned task from a patient: `delete assigned task`](#removing-an-assigned-task-from-a-patient-delete-assigned-task)
 
-    [		Finding a patient from the patient list: `find patient`](#finding-a-patient-from-the-patient-list-find-patient)
+[		Finding a patient from the patient list: `find patient`](#finding-a-patient-from-the-patient-list-find-patient)
 
-    [		Finding a task from the task list: `find task`](#finding-a-task-from-the-task-list-find-task)
+[		Finding a task from the task list: `find task`](#finding-a-task-from-the-task-list-find-task)
 
-    [		Finding a list of assigned tasks for a patient: `find assigned tasks`](#finding-a-list-of-assigned-tasks-for-a-patient-find-assigned-tasks)
+[		Finding a list of assigned tasks for a patient: `find assigned tasks`](#finding-a-list-of-assigned-tasks-for-a-patient-find-assigned-tasks)
 
-    [		Updating a patient’s information: `update patient`](#updating-a-patient-s-information-update-patient)
+[		Updating a patient’s information: `update patient`](#updating-a-patient-s-information-update-patient)
 
-    [		Updating a task’s description: `update task`](#updating-a-task-s-description-update-task)
+[		Updating a task’s description: `update task`](#updating-a-task-s-description-update-task)
 
-    [		Undo the previous action: `undo`](#undo-the-previous-action-undo)
+[		Undo the previous action: `undo`](#undo-the-previous-action-undo)
 
-    [		Filtering data](#filtering-data)
+[		Filtering data](#filtering-data)
 
-    [		Show upcoming tasks for the week: `show upcoming tasks`](#show-upcoming-tasks-for-the-week-show-upcoming-tasks)
+[		Show upcoming tasks for the week: `show upcoming tasks`](#show-upcoming-tasks-for-the-week-show-upcoming-tasks)
 
-    [		View help guide: `help`](#view-help-guide-help)
+[		View help guide: `help`](#view-help-guide-help)
 
-    [		Typo-correction](#typo-correction)
+[		Typo-correction](#typo-correction)
 
-    [		Display pie chart or bar chart](#display-pie-chart-or-bar-chart)
+[		Display pie chart or bar chart](#display-pie-chart-or-bar-chart)
 
-    [		Saving the data](#saving-the-data)
+[		Saving the data](#saving-the-data)
 
-    [		Exiting the program: `bye`](#exiting-the-program-bye)
+[		Exiting the program: `bye`](#exiting-the-program-bye)
 
 ## 1. Introduction
 
