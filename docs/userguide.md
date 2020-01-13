@@ -2,7 +2,7 @@
 
 * [1. Introduction](#1-introduction)
 * [2. Features](#2-features)
-  + [Creating a task `add task`](#creating-a-task-add--task-)
+  + [Creating a task `add task`](#creating-a-task-add--task)
   + [Creating a patient profile `add patient`](#creating-a-patient-profile--add-patient-)
   + [Assigning a patient to a deadline task: `assign deadline task`](#assigning-a-patient-to-a-deadline-task---assign-deadline-task-)
   + [Assigning a patient to a period task: `assign period task`](#assigning-a-patient-to-a-period-task---assign-period-task-)
